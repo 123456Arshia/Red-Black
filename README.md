@@ -1,5 +1,3 @@
-Certainly! Here's a more comprehensive README file for the Red-Black Tree implementation:
-
 # Red-Black Tree Implementation in C++
 
 ## Overview
